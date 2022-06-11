@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![profile image](https://image.shutterstock.com/image-illustration/any-questions-concept-260nw-169713989.jpg)
